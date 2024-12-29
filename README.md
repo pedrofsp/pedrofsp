@@ -17,9 +17,16 @@
 ### 🛠 Tech Stack
 
 <div style="display: inline_block">
+<img align="center" alt="Html" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg">
+<img align="center" alt="Css" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg">
 <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
 <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <img align="center" alt="Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vuejs/vuejs-original.svg">
+<img align="center" alt="Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sass/sass-original.svg">
+<img align="center" alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg">
+<img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg">
+<img align="center" alt="Webflow" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/webflow/webflow-original.svg">
 <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 </div>
+
