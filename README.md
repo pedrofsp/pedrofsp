@@ -8,6 +8,7 @@
 * 💻 I'm a front-end developer
 * 🎓 Computer Science graduated at <a href="https://ufla.br/" target="_blank">UFLA</a>
 * 📍 Currently living in Franca, São Paulo, Brasil
+* 🌐 My <a href="https://portifolio-website-b2b51.web.app/" target="_blank">Portifolio Website</a> (React + Figma + Firebase)
 
 ### 🔍 How to reach me
 
